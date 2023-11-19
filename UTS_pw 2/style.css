@@ -1,0 +1,29 @@
+.list-inline-item {
+    transition: box-shadow 0.4s ease;
+  }
+  
+  .list-inline-item:hover {
+    background-color: #ffecbe;
+    box-shadow: 5px 5px 10px #e1b754;
+    border-radius: 20px;
+  }
+.btnDetail {
+    background-color: #00AA5B;
+    outline-color: black;
+}
+.carouselCapt {
+    text-align: center;
+    padding-bottom: 10px;
+}
+.h3 {
+    background-color: #ffecbe;
+}
+.CopyRight {
+    background-color: rgb(212, 212, 212);
+}
+.perPon {
+    background-color: rgb(212, 212, 212);
+}
+.perPon span {
+    color: #ffecbe;
+}
